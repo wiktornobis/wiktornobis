@@ -2,7 +2,7 @@
 
 
 I'm Wiktor from Warsaw, and i develop responsive websites and desktop applications. I am currently a student at the School of Economics majoring in e-business. I really enjoy learning languages and frameworks like React.
-Skills:  REACT / REACT ROUTER / JS / HTML / CSS / SASS / GIT / SCRUM
+Skills:  REACT / REACT ROUTER / REACT SCROLL REACT DEVICE DETEACT / HASHLINK / JS / HTML / CSS / SASS / GIT / SCRUM / API / FIREBASE
 
 
 I am open to new challenges and determined to gain experience. 
