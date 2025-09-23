@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-I'm Wiktor from Warsaw, and i develop responsive websites and desktop applications. I graduated from the Warsaw School of Economics majoring in e-business. I really enjoy learning programming languages and frameworks like React.
-Skills:  REACT / REACT ROUTER / REACT QUERY / REACT SCROLL / REACT DEVICE DETEACT / HASHLINK / REDUX / NEXT JS 13 / GSAP / MUI / JS / TypeScript / SVELTE / HTML / CSS / SASS / LESS / JAVA (BASIC) / GIT / SCRUM / API / FETCH/ FIREBASE / MOBILE FIRST
+Full-stack Software Engineer experienced in React, Java, and cloud solutions. Since 2021 I’ve been building scalable applications with a strong focus on performance, clean code, and user experience. Skilled in React 18+, TypeScript, Spring Boot, PostgreSQL, Redis, and AWS. I thrive in Agile teams and enjoy turning complex ideas into reliable, impactful products. https://www.linkedin.com/in/wiktor-nobis-537689236/ https://github.com/wiktornobis
 
 
 I am open to new challenges and determined to gain experience. 
